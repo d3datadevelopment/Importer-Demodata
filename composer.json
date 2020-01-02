@@ -24,6 +24,6 @@
     "proprietary"
   ],
   "require": {
-    "d3/importer": "^5.0"
+    "d3/importer": "^5.1"
   }
 }
