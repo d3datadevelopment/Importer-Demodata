@@ -1,7 +1,7 @@
 {
   "name": "d3/importer-demodata",
   "description": "Importer Demodata for OXID eShop.",
-  "type": "oxideshop-demodata",
+  "type": "oxideshop",
   "keywords": [
     "oxid",
     "modules",
