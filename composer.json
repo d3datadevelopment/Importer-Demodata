@@ -1,0 +1,29 @@
+{
+  "name": "d3/importer-demodata",
+  "description": "Importer Demodata for OXID eShop.",
+  "type": "oxideshop-demodata",
+  "keywords": [
+    "oxid",
+    "modules",
+    "eShop",
+    "d3",
+    "import",
+    "demodata",
+    "csv"
+  ],
+  "authors": [
+    {
+        "name": "D3 Data Development (Inh. Thomas Dartsch)",
+        "email": "info@shopmodule.com",
+        "homepage": "http://www.d3data.de",
+        "role": "Owner"
+    }
+  ],
+  "homepage": "https://www.oxidmodule.com/",
+  "license": [
+    "proprietary"
+  ],
+  "require": {
+    "d3/importer": "^5.0"
+  }
+}
