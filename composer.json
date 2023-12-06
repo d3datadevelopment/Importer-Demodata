@@ -25,6 +25,7 @@
     "proprietary"
   ],
   "require": {
-    "d3/importer": "^5.0|^6"
+    "d3/importer": "^5.0|^6",
+    "ajgl/composer-symlinker": "^0.3.1"
   }
 }
